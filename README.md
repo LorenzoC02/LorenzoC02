@@ -153,15 +153,6 @@ I believe:
 
 📧 **[lorenzo.cocchi2002@gmail.com](mailto:lorenzo.cocchi2002@gmail.com)**
 
-<p align="center">
-  <b>⚠️ WARNING ⚠️</b><br/>
-  This developer may automate your entire workflow
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="300" />
-</p>
-
 <!--
 **LorenzoC02/LorenzoC02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
