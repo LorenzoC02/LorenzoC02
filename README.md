@@ -6,13 +6,13 @@
 
 <!-- Easter Egg #3: Automation is not about laziness. It's about scalability. -->
 
-<p align="center">
- ____    _    ____ _  __ _____ _   _ ____  
-| __ )  / \  / ___| |/ /| ____| \ | |  _ \ 
-|  _ \ / _ \| |   | ' / |  _| |  \| | | | |
-| |_) / ___ \ |___| . \ | |___| |\  | |_| |
-|____/_/   \_\____|_|\_\|_____|_| \_|____/
-</p>
+<pre align="center">
+  ____    _    ____ _  __ _____ _   _ ____  
+ | __ )  / \  / ___| |/ /| ____| \ | |  _ \ 
+ |  _ \ / _ \| |   | ' / |  _| |  \| | | | |
+ | |_) / ___ \ |___| . \ | |___| |\  | |_| |
+ |____/_/   \_\____|_|\_\|_____|_| \_|____/
+</pre>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&animation=fadeIn" />
