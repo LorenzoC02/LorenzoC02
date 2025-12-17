@@ -30,10 +30,6 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="420" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=LorenzoC02&style=for-the-badge&color=red" />
 </p>
 
@@ -137,10 +133,6 @@ I believe:
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LorenzoC02&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoC02&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
