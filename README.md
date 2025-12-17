@@ -41,9 +41,6 @@
 > whoami
 lorenzo_cocchi
 
-> status
-ITS Backend Student | AI Automation Dev
-
 > current_focus
 [Java, Spring Boot, AI Agents, RAG, Docker]
 
